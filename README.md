@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/draconmc1337/lotus-linux/main/lotus.png" width="220">
 
-# 🌸 Lotus Linux
+# Lotus Linux
 
 **A minimal, independent Linux distribution built from scratch.**  
 **Một bản phân phối Linux tối giản, độc lập, xây dựng từ đầu.**
