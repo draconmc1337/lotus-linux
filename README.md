@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/draconmc1337/lotus-linux/main/lotus.png" width="220">
+
 # 🌸 Lotus Linux
 
 **A minimal, independent Linux distribution built from scratch.**  
